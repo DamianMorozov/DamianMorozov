@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Net.Utils](https://github.com/DamianMorozov/Net.Utils)
 
-- 👨‍💻 All of my projects are available at [https://github.com/DamianMorozov/DamianMorozov/](https://github.com/DamianMorozov/DamianMorozov/)
+- 👨‍💻 All of my projects are available at [https://github.com/DamianMorozov/](https://github.com/DamianMorozov/)
 
 - 📫 How to reach me **damian@morozov33.ru**
 
