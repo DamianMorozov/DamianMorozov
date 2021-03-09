@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damianmorozov" alt="damianmorozov" /></a> </p>
 
-- 🔭 I’m currently working on [Net.Examples](https://github.com/DamianMorozov/Net.Examples)
-
 - 🌱 I’m currently learning **NHibernate, TelegramBot, ASP NET, Blazor**
-
-- 👯 I’m looking to collaborate on [Net.Utils](https://github.com/DamianMorozov/Net.Utils)
 
 - 👨‍💻 All of my projects are available at [https://github.com/DamianMorozov/](https://github.com/DamianMorozov/)
 
