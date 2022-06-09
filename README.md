@@ -15,7 +15,7 @@
 <h2 align="middle">GitHub stats</h3>
 <img align="middle" src="https://metrics.lecoq.io/damianmorozov" />
 
-<h2 align="middle">Languages and tools <img width ='32px' src ='Gif/giphy.gif'></h3>
+<h2 align="middle">Languages and tools</h3>
 <a> <img width ='48px' src ='Svg/csharp.svg'> </a>
 <a> <img width ='48px' src ='Svg/git.svg'> </a>
 <a> <img width ='48px' src ='Svg/github.svg'> </a>
