@@ -16,12 +16,11 @@
 <img align="middle" src="https://metrics.lecoq.io/damianmorozov" />
 
 <h2 align="middle">Languages and tools</h3>
-<a> <img width ='48px' src ='Svg/csharp.svg'> </a>
-<a> <img width ='48px' src ='Svg/git.svg'> </a>
 <a> <img width ='48px' src ='Svg/github.svg'> </a>
-<a> <img width ='48px' src ='Svg/dotnet.svg'> </a>
-<a> <img width ='48px' src ='Svg/ms-net.svg'> </a>
+<a> <img width ='48px' src ='Svg/git.svg'> </a>
 <a> <img width ='48px' src ='Svg/ms-net-core.svg'> </a>
+<a> <img width ='48px' src ='Svg/ms-net.svg'> </a>
+<a> <img width ='48px' src ='Svg/csharp.svg'> </a>
 <a> <img width ='48px' src ='Svg/ms-sql-server.svg'> </a>
 
 <h2 align="middle">Support</h3>
