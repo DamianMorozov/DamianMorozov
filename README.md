@@ -3,7 +3,7 @@
 
 <img align="middle" src="https://komarev.com/ghpvc/?username=damianmorozov&label=Profile%20views&color=0e75b6&style=flat" alt="damianmorozov" />
 
-- 🌱 I’m currently learning **[FluentNHibernate](https://github.com/nhibernate/fluent-nhibernate), [WTelegramClient](https://github.com/wiz0u/WTelegramClient), [ASP.NET Blazor](https://github.com/dotnet/aspnetcore)**
+- 🌱 I’m currently working on **[TgDownloader](https://github.com/DamianMorozov/TgDownloader)**
 - 📫 How to reach me **damian@morozov33.ru**
 
 <h2 align="middle">Languages and tools</h3>
