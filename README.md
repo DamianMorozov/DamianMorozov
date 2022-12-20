@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Damian</h1>
 <h2 align="center">C # programs developer</h3>
 
-<img align="middle" src="https://komarev.com/ghpvc/?username=damianmorozov&label=Profile%20views&color=0e75b6&style=flat" alt="damianmorozov" />
+<img align="center" src="https://komarev.com/ghpvc/?username=damianmorozov&label=Profile%20views&color=0e75b6&style=flat" alt="damianmorozov" />
 
 - 🌱 I’m currently working on **[TgDownloader](https://github.com/DamianMorozov/TgDownloader)**
 - 📫 How to reach me **damian@morozov33.ru**
 
-<h2 align="middle">Languages and tools</h3>
+<h2 align="center">Languages and tools</h3>
 <table>
   <tr>
     <td><img width ='48px' src ='Svg/github.svg' /></td>
@@ -18,14 +18,10 @@
   </tr>
 </table>
 
-<img align="middle" src="https://github-profile-trophy.vercel.app/?username=damianmorozov&row=1&column=8&no-bg=true&no-frame=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=damianmorozov&show_icons=true&locale=en&theme=dark" />
 
-<img align="middle" src="https://github-readme-streak-stats.herokuapp.com?user=damianmorozov&theme=dark&border=9F18DD&fire=BFDD1C&stroke=B8B3DD&ring=DDDDDD" />
+<h2 align="center">GitHub stats</h3>
+<img align="center" src="https://metrics.lecoq.io/damianmorozov" />
 
-<img align="middle" src="https://github-readme-stats.vercel.app/api?username=damianmorozov&show_icons=true&locale=en&theme=dark" />
-
-<h2 align="middle">GitHub stats</h3>
-<img align="middle" src="https://metrics.lecoq.io/damianmorozov" />
-
-<h2 align="middle">Support</h3>
-<p><p>Please, if this tools has been useful for you click on the `star` button.</p></p>
+<h2 align="center">Support</h3>
+Please click the `star` button if this tools was helpful to you.
