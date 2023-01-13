@@ -18,8 +18,6 @@
   </tr>
 </table>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=damianmorozov&show_icons=true&locale=en&theme=dark" />
-
 <h2 align="center">GitHub stats</h3>
 <img align="center" src="https://metrics.lecoq.io/damianmorozov" />
 
