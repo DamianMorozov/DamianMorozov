@@ -3,17 +3,15 @@
 
 <img align="center" src="https://komarev.com/ghpvc/?username=damianmorozov&label=Profile%20views&color=0e75b6&style=flat" alt="damianmorozov" />
 
-- 🌱 My pet project **[TgDownloader](https://github.com/DamianMorozov/TgDownloader)**
+- 🌱 My pet project **[OpenTgResearcher - Open Telegram Researcher](https://github.com/DamianMorozov/OpenTgResearcher)**
 
 <h2 align="center">Languages and tools</h3>
 <table>
   <tr>
     <td><img width ='48px' src ='Svg/github.svg' /></td>
-    <td><img width ='48px' src ='Svg/git.svg' /></td>
-    <td><img width ='48px' src ='Svg/ms-net-core.svg' /></td>
     <td><img width ='48px' src ='Svg/ms-net.svg' /></td>
     <td><img width ='48px' src ='Svg/csharp.svg' /></td>
-    <td><img width ='48px' src ='Svg/ms-sql-server.svg' /></td>
+    <td><img width ='48px' src ='Svg/docker.svg' /></td>
   </tr>
 </table>
 
